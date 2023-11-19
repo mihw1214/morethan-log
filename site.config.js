@@ -1,5 +1,5 @@
 const CONFIG = {
-  // profile setting (required)
+  // profile setting (required) 
   profile: {
     name: "서희원(아마추어 코딩러)",
     image: "/mihw.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
